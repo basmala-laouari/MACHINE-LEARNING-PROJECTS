@@ -7,8 +7,8 @@ A collection of machine learning notebooks covering regression, multiclass class
 | Notebook | Task | Models | Main test result |
 |---|---|---|---|
 | [House price prediction](house_price_prediction.ipynb) | Regression | Linear Regression, Random Forest, SVR | R² 0.944, RMSE 17.93 k€ |
-| [Credit decision](credit_decision.ipynb) | 3-class classification | Decision Tree, Random Forest | Accuracy 97.8% |
-| [Spam detection](spam_detection.ipynb) | Binary classification | Multinomial Naive Bayes | Accuracy 92.6% |
+| [Credit decision](bank.ipynb) | 3-class classification | Decision Tree, Random Forest | Accuracy 97.8% |
+| [Spam detection](spam.ipynb) | Binary classification | Multinomial Naive Bayes | Accuracy 92.6% |
 
 ## 1. House Price Prediction
 
